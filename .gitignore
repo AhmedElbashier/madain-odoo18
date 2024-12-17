@@ -15,6 +15,10 @@ __pycache__/
 *~
 # hg stuff
 *.orig
+# Force track custom_addons directory
+!custom_addons/
+!custom_addons/**
+
 status
 # odoo filestore
 odoo/filestore
